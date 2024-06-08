@@ -1,0 +1,2 @@
+require("kaizoku")
+print("Hello")
